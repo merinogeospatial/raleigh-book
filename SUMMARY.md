@@ -1,9 +1,9 @@
 # Table of contents
 
 * Welcome to team raleigh!
+* [Richard's To Do Checklist](to-do-checklist.md)
 * Introduction
   * [Purpose](untitled/purpose.md)
-  * [Richard's To Do Checklist](untitled/to-do-checklist.md)
   * Useful Links
 * Data
   * Vector Tiles
