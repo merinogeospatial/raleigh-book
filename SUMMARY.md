@@ -17,6 +17,7 @@
   * Crowd Source Story Map
   * Web App Builder
   * REST API
+  * Map Tiling
 * Python
   * [ArcGIS Python API](python/arcgis-python-api.md)
   * [Automating ArcGIS Online Backups](python/automating-arcgis-online-backups.md)
@@ -27,8 +28,8 @@
   * Dojo Toolkit
 * EBPA Model
   * [Notes](ebpa-model/notes.md)
-* Collaboration Efforts
-  * Co/Lab
 * Park Trails Apps
   * Forest Ridge Park
+* Collaboration Efforts
+  * Co/Lab
 
