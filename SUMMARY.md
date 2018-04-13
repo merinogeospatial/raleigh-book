@@ -3,7 +3,7 @@
 * Welcome to team raleigh!
 * Introduction
   * [Purpose](untitled/purpose.md)
-  * [To Do Checklist](untitled/to-do-checklist.md)
+  * [Richard's To Do Checklist](untitled/to-do-checklist.md)
   * Useful Links
 * Research
   * [Automating Creation of FacilityID as String](research/untitled-1.md)

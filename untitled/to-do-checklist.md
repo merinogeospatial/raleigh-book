@@ -4,15 +4,15 @@ description: >-
   context
 ---
 
-# To Do Checklist
+# Richard's To Do Checklist
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Here's what I will need to catch up writing about:
 
 * \[ \] Research on the Python API
-  * \[ \] Include code for automated handling of contents
-  * \[ \] Flowcharts, I think there are ~~two~~ one made
+  * \[x\] Include code for automated handling of contents
+  * \[x\] Flowcharts, I think there are ~~two~~ one made
   * \[ \] Its potential uses and frameworks
 * \[ \] Windows task scheduler
   * \[ \] Its uses, I think there is a document on this
@@ -27,6 +27,8 @@ Here's what I will need to catch up writing about:
   * \[ \] Story Maps
   * \[ \] Mobile Maps
   * \[ \] Custom \(Leaflet or otherwise\) &gt; You need a method of delivery - it has to sit on a server somewhere
+* Occupy empty pages you placed with notes and research you've conducted on said topic
+* Are there any tools/services you looked at that are worth documenting?
 
 
 
