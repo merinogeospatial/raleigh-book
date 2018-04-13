@@ -18,6 +18,7 @@
   * Web App Builder
   * REST API
   * Map Tiling
+  * Operations Dashboard
 * Python
   * [ArcGIS Python API](python/arcgis-python-api.md)
   * [Automating ArcGIS Online Backups](python/automating-arcgis-online-backups.md)
