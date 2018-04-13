@@ -13,5 +13,7 @@
 
 ![Example of how it could look for a blue blaze trail with natural surface type](../../.gitbook/assets/trail_symbol.PNG)
 
+### 
+
 
 
