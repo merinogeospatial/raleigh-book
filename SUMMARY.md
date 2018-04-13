@@ -28,8 +28,9 @@
   * Dojo Toolkit
 * EBPA Model
   * [Notes](ebpa-model/notes.md)
-* Park Trails Apps
+* [Park Trails Apps](park-trails-apps/README.md)
   * Forest Ridge Park
+    * [Notes](park-trails-apps/forest-ridge-park/notes.md)
 * Collaboration Efforts
   * Co/Lab
 
