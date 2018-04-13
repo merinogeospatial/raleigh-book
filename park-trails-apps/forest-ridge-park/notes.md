@@ -10,7 +10,7 @@
   * Marker placement &gt; placement template controls distance between markers
 * Bottom line layer - larger size based on blaze color, makes translucent? 
 
-![Example of how it could look](../../.gitbook/assets/trail_symbol.PNG)
+![Example of how it could look for a blue blaze trail with natural surface type](../../.gitbook/assets/trail_symbol.PNG)
 
 
 
