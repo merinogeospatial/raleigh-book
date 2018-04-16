@@ -35,6 +35,8 @@ Personal notes - not official info/sharing method for EBPA, but here for viewing
 * **Desired outcome** - 
   * Expand accessibility to this model to other users through availability of technology, clear documentation on technology and process.
   * Be able to confidently use this model as tool for decision making - clearly assessing cases based on established criteria
+* Q's for Bonnie
+  * software for our project structure
 
 ### To do list for next meeting:
 

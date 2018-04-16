@@ -30,6 +30,7 @@
   * Dojo Toolkit
 * EBPA Model
   * [Notes](ebpa-model/notes.md)
+  * [Objectives and Criteria](ebpa-model/objectives-and-criteria.md)
 * [Park Trails Apps](park-trails-apps/README.md)
   * Forest Ridge Park
     * [Notes](park-trails-apps/forest-ridge-park/notes.md)
