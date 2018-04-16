@@ -7,6 +7,7 @@
   * Useful Links
 * Data
   * [Vector Map Tiling](data/map-tiling.md)
+  * [SDE Connections](data/sde-connections.md)
 * Research
   * [Automating Creation of FacilityID as String](research/untitled-1.md)
   * [Routing Engines](research/routing-engines.md)
