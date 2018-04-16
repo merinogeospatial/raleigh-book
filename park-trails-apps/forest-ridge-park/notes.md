@@ -17,6 +17,13 @@
 
 * Pay attention to label scales
 * White text, black 0.5 halo
+* Include mileage for trail/main segment in label.
+  * Generate with add geometry script
+
+### Map tile creation
+
+* Tiling Scheme should be set at WGS84 for greater LoD. Up to 22, 23 is max.
+* Tiling scheme can be created from rasters... for vectors it must be MXD?
 
 
 
