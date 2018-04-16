@@ -37,6 +37,7 @@ Personal notes - not official info/sharing method for EBPA, but here for viewing
   * Be able to confidently use this model as tool for decision making - clearly assessing cases based on established criteria
 * Q's for Bonnie
   * software for our project structure
+* Document WHY decisions were made
 
 
 
