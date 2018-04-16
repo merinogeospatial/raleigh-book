@@ -7,7 +7,7 @@ Personal notes - not official info/sharing method for EBPA, but here for viewing
 * Configuring widgets for statistical views, presentation, filtering by location and selection \(downtown vs. other\)
 * Web apps with analysis enabled, keeping credits in mind
 
-To do list for next meeting\_
+### To do list for next meeting:
 
 * \[ \] If I create web app templates - will level 1 users be able to configure them?
   * TJ is same publisher as me\*
@@ -35,6 +35,12 @@ To do list for next meeting\_
 * **Desired outcome** - 
   * Expand accessibility to this model to other users through availability of technology, clear documentation on technology and process.
   * Be able to confidently use this model as tool for decision making - clearly assessing cases based on established criteria
-* 
+
+### To do list for next meeting:
+
+
+
+
+
 
 
