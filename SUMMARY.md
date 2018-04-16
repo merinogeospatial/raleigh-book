@@ -6,7 +6,7 @@
   * [Purpose](untitled/purpose.md)
   * Useful Links
 * Data
-  * Vector Tiles
+  * [Vector Map Tiling](data/map-tiling.md)
 * Research
   * [Automating Creation of FacilityID as String](research/untitled-1.md)
   * [Routing Engines](research/routing-engines.md)
@@ -19,7 +19,6 @@
   * Crowd Source Story Map
   * Web App Builder
   * REST API
-  * [Vector Map Tiling](arcgis-online/map-tiling.md)
   * Operations Dashboard
 * Python
   * [ArcGIS Python API](python/arcgis-python-api.md)
