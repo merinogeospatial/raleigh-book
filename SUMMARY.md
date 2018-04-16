@@ -15,12 +15,11 @@
   * [Creation of COR-owned parcels](arcgis-desktop/creation-of-cor-owned-parcels.md)
   * [Creation of Parcels Containing Parks](arcgis-desktop/creation-of-parcels-containing-parks.md)
 * ArcGIS Online
-  * [Guide](arcgis-online/structure-guide.md)
+  * Web App Builder
+  * Operations Dashboard
   * App Templates
   * Crowd Source Story Map
-  * Web App Builder
-  * REST API
-  * Operations Dashboard
+* REST API
 * Python
   * [ArcGIS Python API](python/arcgis-python-api.md)
   * [Automating ArcGIS Online Backups](python/automating-arcgis-online-backups.md)

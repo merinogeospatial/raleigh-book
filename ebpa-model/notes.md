@@ -9,11 +9,11 @@ Personal notes - not official info/sharing method for EBPA, but here for viewing
 
 ### To do list for next meeting:
 
-* \[ \] If I create web app templates - will level 1 users be able to configure them?
-  * TJ is same publisher as me\*
-* \[ \] Brainstorm questions for Bonnie, specific points on organization.
-* \[ \] Dive into researching the model, take notes on the process, variables, inputs, objectives
-  * \[ \] Maybe come up with a rough diagram \(or wait\)
+* \[ x \] If I create web app templates - will level 1 users be able to configure them?
+  * _**TJ is same publisher as me, should be able to configure apps\***_
+* \[ x \] Brainstorm questions for Bonnie, specific points on organization.
+* ~~\[ \] Dive into researching the model, take notes on the process, variables, inputs, objectives~~
+  * ~~\[ \] Maybe come up with a rough diagram \(or wait\)~~
 
 ## 20180416
 
