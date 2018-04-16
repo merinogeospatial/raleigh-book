@@ -29,7 +29,12 @@ To do list for next meeting\_
       * GIS
       * Documentation
 
-* "deadline" for presentation? deadline for steps?
-
+* "deadline" for presentation? deadline for steps? estimated timeline?
+* **Define what is and is not in our scope **- certain variables/scales out of scope?
+* **Business case/need** - Provide methodology of modeling park access in the context of planning more quantitatively in order to reduce subjectivity in decision making.
+* **Desired outcome** - 
+  * Expand accessibility to this model to other users through availability of technology, clear documentation on technology and process.
+  * Be able to confidently use this model as tool for decision making - clearly assessing cases based on established criteria
+* 
 
 
