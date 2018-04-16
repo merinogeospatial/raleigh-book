@@ -43,6 +43,92 @@ Personal notes - not official info/sharing method for EBPA, but here for viewing
 
 ### To do list for next meeting:
 
+Wednesday – develop agenda for Bonnie 
+
+Next meeting – talk about scores 
+
+Overarching deadline—coincide with prep for 5-year System Plan Update
+
+GOAL: How can we reframe the analysis so that running the model is accessible to users
+
+User Perspective
+
+-	Create presentation 
+
+-	Continue to improve and apply the EBPA Model
+
+o	\[June 2018\] Develop a standardized evaluation of park access LOS for use in all future PRCR rezoning reviews
+
+	Tools needed
+
+	Interface
+
+	WHAT WE DO RIGHT NOW:
+
+•	Information flow chart
+
+o	Current LOS, current LA, distance to closest park/greenway, impact of new development / park, etc.
+
+•	Work flow description
+
+o	Documents referenced, websites visited, software used, documentation recorded, communication, publishing, etc.
+
+	HOW WE CAN DO IT BETTER:
+
+o	\[Septemeber 2018\] Finalize criteria for analysis and identify priority areas for future park land acquisition
+
+	Additional criteria for population growth, equity, etc.
+
+o	\[December 2018?\] Expand the GIS model to evaluate access and connectivity to greenway trails, in addition to parks
+
+	Add Greenway Planner 
+
+•	When and how to add new people to the project?
+
+o	\[December 2018\]  Enhance the GIS model to evaluate different levels of access 
+
+	Variety of experience\(s\)
+
+	Specific amenities on site
+
+	Park Score \(quality indicator\)
+
+	CIP investment history / Cityworks work order / preventative maintenance 
+
+-	Use also for scenario testing of Neighborhood & Community Connections projects
+
+Documentation
+
+-	Immediate need: Memorialize what we’ve currently done
+
+o	Focus: How to run the model
+
+-	Develop protocol for documentation moving forward
+
+-	Documenting decisions that get made as a group \(what networks to use, why scoring is done a certain way, etc.\) 
+
+Data Management
+
+-	Maintaining tier table
+
+-	Managing scope \(e.g. Maintaining the full real estate inventory of PRCR-managed parcels; developing disposition criteria; etc.\) 
+
+Roles & Responsibilities 
+
+-	User review / validation of documentation for use of model
+
+Questions:
+
+Developing a project timeline
+
+To-do List:
+
+Develop list of variables and standard things to report on rezonings, to see what we can get into a user-friendly dashboard 
+
+Presentation / Summary of EBPA model: How it works
+
+Reference to Departmental Business Plan, System Plan, Strategic Plan… 
+
 
 
 
