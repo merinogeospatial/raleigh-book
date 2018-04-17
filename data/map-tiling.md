@@ -14,7 +14,9 @@ In order to publish map tiles and vector map tiles from ArcGIS Pro, you must fir
 
 {% embed data="{\"url\":\"http://doc.arcgis.com/en/arcgis-online/manage-data/publish-tiles.htm\#ESRI\_SECTION1\_86DEFEF756A047B78EFE3DD4788A0AE7\",\"type\":\"link\",\"title\":\"Publish hosted tile layers from files—ArcGIS Online Help \| ArcGIS\",\"description\":\"You can publish a tile layer from a tile package, feature layer,  ArcMap document, or ArcGIS Pro project to be hosted on ArcGIS Online.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://doc.arcgis.com/assets/img/favicon.ico\",\"aspectRatio\":0}}" %}
 
+## Why can't my tiles be displayed? Or why can't I zoom in further?
 
+When publishing your vector map tile, be mindful of its tiling scheme. When using ArcGIS Pro to publish tiles, the tiling scheme can be configured under the "Configuration' tab under "Caching".  Here you can see limits to scale. Some tiling schemes will only allow you to zoom in so far. There are a total of 23 levels of detail - leaving your tile scheme at the default will set your maximum level of detail to 19 \(around the neighborhood/building scale\). If you use the WGS84 scheme, you will be able to move the slider to higher level of detail, but your content will not be compatible with AGOL when trying to add the layer to a map. A work around for this is to select "Existing vector tile layer" for your tiling scheme, and when prompted, select an ESRI basemap. This way you will be able to cache at level 22 and your tile can be integrated seamlessly in AGOL. 
 
 
 
