@@ -23,6 +23,7 @@
 ### Map tile creation
 
 * Tiling Scheme should be set at WGS84 for greater LoD. Up to 22, 23 is max.
+  * IN ORDER TO DO THIS - MUST REPROJECT ALL TO MATCH
 * Tiling scheme can be created from rasters... for vectors it must be MXD?
 
 
