@@ -22,5 +22,11 @@ When publishing your vector map tile, be mindful of its tiling scheme. When usin
 
 ![Configuring your tiling scheme in ArcGIS Pro](../.gitbook/assets/tiling_scheme.PNG)
 
+{% embed data="{\"url\":\"https://support.esri.com/en/technical-article/000012245\",\"type\":\"link\",\"title\":\"Error: The layer cannot be added to map, coordinate system or tiling scheme can\'t be adjusted to align properly with the basemap\",\"icon\":{\"type\":\"icon\",\"url\":\"https://support.esri.com/Sites/Support/Content/img/favicon.ico\",\"aspectRatio\":0}}" %}
+
+
+
+> The support link above describes the scenario and work around
+
 
 
