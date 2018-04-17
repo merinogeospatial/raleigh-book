@@ -20,3 +20,7 @@ When publishing your vector map tile, be mindful of its tiling scheme. When usin
 
 
 
+![Configuring your tiling scheme in ArcGIS Pro](../.gitbook/assets/tiling_scheme.PNG)
+
+
+
