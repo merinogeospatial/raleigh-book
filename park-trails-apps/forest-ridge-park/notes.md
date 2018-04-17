@@ -3,6 +3,8 @@
 ### Try vector tiles for features so that labels are dynamic\(er\) in AGOL
 
 * May need to get Ryan to publish as I do not have the rights
+* Got rights to publish
+* Works great but consider the update process - tiles not streamed
 
 ### Symbology for trails
 
