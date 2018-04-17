@@ -4,7 +4,7 @@ description: Page to help continue where you left off.
 
 # Richard's To Do Checklist
 
-> For **180416** ~~Continue investigating vector tile \(send to Ryan to test labels\)~~, finish creating FRP app, continue catching up on documents, prepare for meeting
+> For 20180417 - Report on current app, share findings on map tiles \(considerations and problems encountered\), spruce up story maps for demo, continue documentation
 
 Here's what I will need to catch up writing about:
 
