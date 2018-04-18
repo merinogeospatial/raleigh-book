@@ -1,16 +1,17 @@
 # Table of contents
 
+* [Introduction](README.md)
 * Welcome to team raleigh!
-* [Richard's To Do Checklist](to-do-checklist.md)
+* [Richard's To Do Checklist](richards-to-do-checklist.md)
 * Introduction
-  * [Purpose](untitled/purpose.md)
+  * [Purpose](introduction/purpose.md)
   * Useful Links
 * Data
-  * [Vector Map Tiling](data/map-tiling.md)
+  * [Vector Map Tiling](data/vector-map-tiling.md)
   * [SDE Connections](data/sde-connections.md)
-  * [Data Consolidation for AGOL](data/data-consolidation-04-2018.md)
+  * [Data Consolidation for AGOL](data/data-consolidation-for-agol.md)
 * Research
-  * [Automating Creation of FacilityID as String](research/untitled-1.md)
+  * [Automating Creation of FacilityID as String](research/automating-creation-of-facilityid-as-string.md)
   * [Routing Engines](research/routing-engines.md)
 * ArcGIS Desktop
   * [Creation of COR-owned parcels](arcgis-desktop/creation-of-cor-owned-parcels.md)
@@ -36,7 +37,7 @@
   * [Questions for Bonnie](ebpa-model/questions-for-bonnie.md)
 * [Park Trails Apps](park-trails-apps/README.md)
   * Forest Ridge Park
-    * [Working](park-trails-apps/forest-ridge-park/notes.md)
+    * [Working](park-trails-apps/forest-ridge-park/working.md)
   * [Trails Data](park-trails-apps/trails-data.md)
 * Collaboration Efforts
   * Co/Lab

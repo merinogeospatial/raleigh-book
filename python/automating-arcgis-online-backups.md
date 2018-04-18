@@ -1,9 +1,3 @@
----
-description: >-
-  Schedule your content to back up from cloud to your machine or OneDrive with
-  the Python API
----
-
 # Automating ArcGIS Online Backups
 
 First set up the ArcGIS API for Python \| [https://developers.arcgis.com/python/guide/install-and-set-up/](https://developers.arcgis.com/python/guide/install-and-set-up/)

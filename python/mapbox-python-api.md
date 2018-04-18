@@ -1,7 +1,3 @@
----
-description: 'https://www.mapbox.com/api-documentation/?language=Python'
----
-
 # Mapbox Python API
 
 ```

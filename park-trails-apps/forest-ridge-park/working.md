@@ -32,9 +32,9 @@ Don't forget the \[https://\] when deploying to allow location tracking.
 
 * ~~Tiling Scheme should be set at WGS84 for greater LoD. Up to 22, 23 is max.~~
   * ~~IN ORDER TO DO THIS - MUST REPROJECT ALL TO MATCH~~
-* Tiling scheme can be created from rasters...[ for vectors it must be MXD?](../../data/map-tiling.md)
+* Tiling scheme can be created from rasters...[ for vectors it must be MXD?](../../data/vector-map-tiling.md)
 * Default tiling cache scheme works fine but zooming past a certain point causes tile layer to disappear, custom may be more trouble than its worth
-* Have had intermittent issues displaying map tiles on mobile browsers [SEE BUG HERE](../../data/map-tiling.md#less!-bug:-map-tiles-not-displaying-properly-on-some-mobile-devices!-greater)
+* Have had intermittent issues displaying map tiles on mobile browsers [SEE BUG HERE](../../data/vector-map-tiling.md#less!-bug:-map-tiles-not-displaying-properly-on-some-mobile-devices!-greater)
 
 ### Adjusting Label Scales - Fixing
 
