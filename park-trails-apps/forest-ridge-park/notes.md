@@ -1,5 +1,9 @@
 # Notes
 
+{% embed data="{\"url\":\"https://ral.maps.arcgis.com/apps/webappviewer/index.html?id=1ce5f7a952204b028f413d6f26107d55\",\"type\":\"link\",\"title\":\"ArcGIS Web Application\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ral.maps.arcgis.com/apps/webappviewer/images/shortcut.ico\",\"aspectRatio\":0}}" %}
+
+Don't forget the \[https://\] when deploying to allow location tracking.
+
 ### Try vector tiles for features so that labels are dynamic\(er\) in AGOL
 
 * May need to get Ryan to publish as I do not have the rights

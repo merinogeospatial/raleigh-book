@@ -8,7 +8,7 @@
 * Data
   * [Vector Map Tiling](data/map-tiling.md)
   * [SDE Connections](data/sde-connections.md)
-  * [Data Consolidation 04/2018](data/data-consolidation-04-2018.md)
+  * [Data Consolidation for AGOL](data/data-consolidation-04-2018.md)
 * Research
   * [Automating Creation of FacilityID as String](research/untitled-1.md)
   * [Routing Engines](research/routing-engines.md)

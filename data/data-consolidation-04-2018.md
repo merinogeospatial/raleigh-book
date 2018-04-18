@@ -1,4 +1,4 @@
-# Data Consolidation 04/2018
+# Data Consolidation for AGOL
 
 ## Creation + Consolidation of authoritative datasets in AGOL
 
