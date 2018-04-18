@@ -35,7 +35,7 @@
   * [4/17/2018 Email](ebpa-model/4-17-2018-email.md)
 * [Park Trails Apps](park-trails-apps/README.md)
   * Forest Ridge Park
-    * [Notes](park-trails-apps/forest-ridge-park/notes.md)
+    * [Working](park-trails-apps/forest-ridge-park/notes.md)
 * Collaboration Efforts
   * Co/Lab
 
