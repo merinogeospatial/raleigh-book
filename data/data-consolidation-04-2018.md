@@ -1,5 +1,7 @@
 # Data Consolidation 04/2018
 
+## Creation + Consolidation of authoritative datasets in AGOL
+
 For the strategic planning initiative, they are interested in the following assets:
 
 •	Benches \| B:\GISDATA\Cityworks\_Parks\Data\Asset\_Inventory.mdb\Site\_Furnishings
