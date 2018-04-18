@@ -24,11 +24,14 @@ EBPA Modeling, outcomes &gt;
 * Files on network drive and personal machines
 * Email, skype, weekly face-to face meetings
 
-> Meetings &gt;
+> Meetings &gt; anything need to be improved upon?
 
 ## What we would like to accomplish/gain in project management
 
-
+* File structure?
+* Best practices &gt;
+  * for future team members
+* Organization that maximizes productivity
 
 
 
