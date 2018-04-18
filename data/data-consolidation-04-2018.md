@@ -28,7 +28,7 @@ B:\GISDATA\Cityworks\_Parks\Data\Asset\_Inventory.mdb\Site\_Furnishings
 
 **Make a data punch list with all priority attributes - this should include a gauge of how complete the dataset is/ Completeness gauged on geometry, attributes, format, source location**
 
-Will this become sole authoritative?
+Will this become sole authoritative? All in group &gt; views
 
 
 
