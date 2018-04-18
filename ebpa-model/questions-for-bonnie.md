@@ -32,6 +32,7 @@ EBPA Modeling, outcomes &gt;
 * Best practices &gt;
   * for future team members
 * Organization that maximizes productivity
+* Project management that maintains momentum
 * Know where to find things
 
 
