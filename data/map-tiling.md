@@ -1,5 +1,15 @@
 # Vector Map Tiling
 
+## &lt;!-Bug: Map tiles not displaying properly on SOME mobile devices!-&gt;
+
+Looks like the vector map tile published to AGOL works as expected on desktop browser. The same map/application on some mobile devices produces a black layer behind the vector tile features. This black layer covers the base map below.
+
+### Fix \(No solution yet\):
+
+This problem . Tried merging tile layer to base map, but black layer persists. There _may_ be a setting to change in the JSON, but likely limitations to rendering done on some mobile browsers?  Going to test with others 4/18/18.
+
+
+
 ## Why use map tiles?
 
 Map tiles are a good way to publish layers that will only be used for reference and not be editable for online maps. A main benefit to map tiling from experience is the scalability of labels, which is limited for AGOL feature layers. In order to reconfigure your styles and labels after publishing, you may update it by manipulating the json file of your tile item: 
@@ -28,5 +38,11 @@ When publishing your vector map tile, be mindful of its tiling scheme. When usin
 
 > The support link above describes the scenario and work around
 
+## Generating a custom tile scheme
 
+### \* This can only be done with MXDs, may be best to work from ArcMap when dealing with custom tiling schemes
+
+{% embed data="{\"url\":\"https://support.esri.com/en/technical-article/000012213\",\"type\":\"link\",\"title\":\"How To: Set a custom scale range for a tile service in ArcGIS Online\",\"icon\":{\"type\":\"icon\",\"url\":\"https://support.esri.com/Sites/Support/Content/img/favicon.ico\",\"aspectRatio\":0}}" %}
+
+This guide will walk you through creating a custom tiling scheme. This is required when you require a higher level of detail in terms of zoom level. If your tiles fall outside of the tiling scheme, it will not show anything at that scale.
 
