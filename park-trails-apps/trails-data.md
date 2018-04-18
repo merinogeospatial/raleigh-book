@@ -1,6 +1,6 @@
 # Trails Data
 
-## Example of good data from NYC Parks & Rec
+## Example of good trail data from NYC Parks & Rec
 
 Prop\_ID: A unique identifier for the property. The first character is a abbreviation of the borough,
 
