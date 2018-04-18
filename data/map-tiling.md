@@ -40,7 +40,7 @@ When publishing your vector map tile, be mindful of its tiling scheme. When usin
 
 ## Generating a custom tile scheme
 
-### \* This can only be done with MXDs, may be best to work from ArcMap when dealing with custom tiling schemes
+#### \* This can only be done with MXDs, may be best to work from ArcMap when dealing with custom tiling schemes
 
 {% embed data="{\"url\":\"https://support.esri.com/en/technical-article/000012213\",\"type\":\"link\",\"title\":\"How To: Set a custom scale range for a tile service in ArcGIS Online\",\"icon\":{\"type\":\"icon\",\"url\":\"https://support.esri.com/Sites/Support/Content/img/favicon.ico\",\"aspectRatio\":0}}" %}
 
