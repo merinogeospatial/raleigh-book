@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * Welcome to team raleigh!
-* [PRCR Github](prcr-github.md)
-* [Richard's To Do Checklist](richards-to-do-checklist.md)
 * Introduction
   * [Purpose](introduction/purpose.md)
   * Useful Links
+* [PRCR Github](prcr-github.md)
+* [Richard's To Do Checklist](richards-to-do-checklist.md)
 * Data
   * [Vector Map Tiling](data/vector-map-tiling.md)
   * [SDE Connections](data/sde-connections.md)
