@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * Welcome to team raleigh!
+* [PRCR Github](prcr-github.md)
 * [Richard's To Do Checklist](richards-to-do-checklist.md)
 * Introduction
   * [Purpose](introduction/purpose.md)
