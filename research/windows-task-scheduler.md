@@ -6,25 +6,9 @@
 
 **Windows Task Scheduler**
 
-**Purpose: **Summarize Windows Task Scheduler - its potential uses, benefits, configuration with python
+**Purpose: **Summarize Windows Task Scheduler - its potential uses, benefits, configuration with python scripting, and considerations. This may help pave the way for establishing workflows and brainstorm more potential uses.
 
-scripting, and considerations. This may help pave the way for establishing workflows and brainstorm more
-
-potential uses.
-
-**What is it?** This service is pre-installed on several Windows distributions and will run programs or
-
-workflows on prescribed times as specified by the user OR on action triggers. Most Windows machines will
-
-have tasks already scheduled for updates and vital system services. Task scheduler can be accessed by
-
-searching for “task scheduler” in the Windows search menu.
-
-How and why should we use it? In our context, this is a valuable tool for automating data creation, data
-
-cleanup, recurring workflows, and data administration. There are many things to address when hard coding
-
-time and operating system integration into scripts - this eliminates those factors and can be more reliable.
+**What is it?** This service is pre-installed on several Windows distributions and will run programs or workflows on prescribed times as specified by the user OR on action triggers. Most Windows machines will have tasks already scheduled for updates and vital system services. Task scheduler can be accessed by searching for “task scheduler” in the Windows search menu. How and why should we use it? In our context, this is a valuable tool for automating data creation, datacleanup, recurring workflows, and data administration. There are many things to address when hard coding time and operating system integration into scripts - this eliminates those factors and can be more reliable.
 
 **Example cases:**
 
@@ -36,11 +20,7 @@ time and operating system integration into scripts - this eliminates those facto
 
 **● Data administration** - schedule backup of AGOL data; backup local data when locking machine
 
-**Configuring with Python:** The setup wizard when creating a task is highly intuitive, but creating a Python
-
-action is not as straightforward as setting the action to open your script. Task Scheduler prefers explicit
-
-locations. The best settings for python scripts seems to be:
+**Configuring with Python:** The setup wizard when creating a task is highly intuitive, but creating a Python action is not as straightforward as setting the action to open your script. Task Scheduler prefers explicit locations. The best settings for python scripts seems to be:
 
 **Action **: Start a program
 
@@ -60,11 +40,7 @@ locations. The best settings for python scripts seems to be:
 
 **Start in : **C:\Users\Richard\Desktop\DATA\Scripts
 
-**Considerations:** Although tasks can be scheduled to retry at fail, pick up if it misses a time, run in the
-
-background, etc - it would be best to run vital scripts on a server distribution of Windows if possible. This
-
-may not be necessary for us as any needed pushes can be done manually if a hiccup should occur.
+**Considerations:** Although tasks can be scheduled to retry at fail, pick up if it misses a time, run in the background, etc - it would be best to run vital scripts on a server distribution of Windows if possible. This may not be necessary for us as any needed pushes can be done manually if a hiccup should occur.
 
 **Helpful Links:**
 

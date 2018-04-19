@@ -8,8 +8,8 @@
   * \[x\] Include code for automated handling of contents
   * \[x\] Flowcharts, I think there are ~~two~~ one made
   * \[ \] Its potential uses and frameworks
-* \[ \] Windows task scheduler
-  * \[ \] Its uses, I think there is a document on this
+* \[ x \] Windows task scheduler
+  * \[ x \] Its uses, I think there is a document on this
 * \[ \] REST API
   * \[ \] You looked a little at this, there will definitely be more later
 * \[ \] Document Processes
