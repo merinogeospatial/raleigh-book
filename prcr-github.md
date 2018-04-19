@@ -6,6 +6,7 @@
 
 * Distribute learning materials and guides
 * Serve as a hub for tools and maps that are are helpful. Having these in one spot as opposed to having to access and search for it in AGOL
+  * Pre-made tools that can be used
 * Repo open source projects
 * Bank snippets of code, modules, and libraries
 
