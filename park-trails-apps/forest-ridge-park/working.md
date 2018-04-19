@@ -40,7 +40,7 @@ Don't forget the \[https://\] when deploying to allow location tracking.
 
 A work around to messy labels is to have over arching labels for lower zoom levels and set the visibility for line labels \(on line labels\) at higher zoom levels. This will reduce clutter. You can set zoom level for the location tracking widget - it would be a good idea to match the zoom level to which it calls to with the zoom level when line labels are rendered. The expected result would be &gt; User presses locate button, zooms to user who is on trail, trail is clearly labeled with name, blaze, mileage. User will be able to navigate which direction.
 
-### Inclusion of paved data?
+### Inclusion of paved data + parking lot?
 
-Kelly mentioned it would be nice to have paved areas on the printed map as it is a big reference point for users. She has a meeting with Joel to see what he thinks of this. I've added a translucent overlay of the proposed plan that Ryan geo-referenced, and it actually looks pretty good, but the collected data does not overlay the image well. It would be nice if hi-res and up to date orthoimagery was included in this.. hmm.. this data might appear somewhere... I wonder from where... 
+Kelly mentioned it would be nice to have paved areas \(parking lot + playground as polygon\) on the printed map as it is a big reference point for users. She has a meeting with Joel to see what he thinks of this. I've added a translucent overlay of the proposed plan that Ryan geo-referenced, and it actually looks pretty good, but the collected data does not overlay the image well. It would be nice if hi-res and up to date orthoimagery was included in this.. hmm.. this data might appear somewhere... I wonder from where... 
 
