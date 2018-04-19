@@ -4,7 +4,7 @@
 >
 > Pending response from Joel
 
-, Here's what I will need to catch up writing about:
+### Here's what you need to catch up writing on
 
 * \[ \] REST API
   * \[ \] You looked a little at this, there will definitely be more later
