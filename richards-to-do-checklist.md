@@ -7,9 +7,9 @@
 , Here's what I will need to catch up writing about:
 
 * \[ \] Research on the Python API
-  * \[x\] Include code for automated handling of contents
-  * \[x\] Flowcharts, I think there are ~~two~~ one made
-  * \[ \] Its potential uses and frameworks
+  * \[ x \] Include code for automated handling of contents
+  * \[ x \] Flowcharts, I think there are ~~two~~ one made
+  * \[ x \] Its potential uses and frameworks
 * \[ x \] Windows task scheduler
   * \[ x \] Its uses, I think there is a document on this
 * \[ \] REST API
