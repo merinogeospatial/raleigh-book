@@ -14,6 +14,7 @@
 * Research
   * [Automating Creation of FacilityID as String](research/automating-creation-of-facilityid-as-string.md)
   * [Routing Engines](research/routing-engines.md)
+  * [Windows Task Scheduler](research/windows-task-scheduler.md)
 * ArcGIS Desktop
   * [Creation of COR-owned parcels](arcgis-desktop/creation-of-cor-owned-parcels.md)
   * [Creation of Parcels Containing Parks](arcgis-desktop/creation-of-parcels-containing-parks.md)
