@@ -6,17 +6,10 @@
 
 , Here's what I will need to catch up writing about:
 
-* \[ \] Research on the Python API
-  * \[ x \] Include code for automated handling of contents
-  * \[ x \] Flowcharts, I think there are ~~two~~ one made
-  * \[ x \] Its potential uses and frameworks
-* \[ x \] Windows task scheduler
-  * \[ x \] Its uses, I think there is a document on this
 * \[ \] REST API
   * \[ \] You looked a little at this, there will definitely be more later
 * \[ \] Document Processes
-  * \[x\] Look at what you did the first week... there are some docs you wrote
-  * \[ \] Try to document creating your apps to show best practices and such
+  * \[ p \] Try to document creating your apps to show best practices and such
 * \[ \] Create documentation on types of apps and when it is best to use them, especially ArcGIS packages, general considerations when going to build such as length of time, difficulty, cost considerations, software used, data sources, delivery and audience
   * \[ \] Crowd Source
   * \[ \] Web App Builder
