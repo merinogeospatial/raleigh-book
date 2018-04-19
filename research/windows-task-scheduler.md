@@ -70,13 +70,11 @@ may not be necessary for us as any needed pushes can be done manually if a hiccu
 
 **Scheduling a python script:**
 
-https://blogs.esri.com/esri/arcgis/2013/07/30/scheduling-a-scrip/
+{% embed data="{\"url\":\"https://blogs.esri.com/esri/arcgis/2013/07/30/scheduling-a-scrip/\r\",\"type\":\"link\",\"title\":\"Scheduling a Python script or model to run at a prescribed time\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.esri.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
-https://communityhub.esriuk.com/technicalsupport/2016/8/31/scheduling-a-modelbuilder-model-using-tas
-
-k-scheduler
+https://communityhub.esriuk.com/technicalsupport/2016/8/31/scheduling-a-modelbuilder-model-using-task-scheduler
 
 **Scheduling a model:**
 
-http://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/modelbuilder/scheduling-a-model-run.htm
+{% embed data="{\"url\":\"http://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/modelbuilder/scheduling-a-model-run.htm\",\"type\":\"link\",\"title\":\"Schedule a model—ArcGIS Pro \| ArcGIS Desktop\",\"description\":\"You may want to have a geoprocessing model run at a specific time of day or set the model to run repeatedly at some time interval.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://pro.arcgis.com/assets/img/favicon.ico\",\"aspectRatio\":0}}" %}
 
