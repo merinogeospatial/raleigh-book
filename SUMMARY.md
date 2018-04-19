@@ -22,7 +22,7 @@
   * Web App Builder
   * Operations Dashboard
   * App Templates
-  * Crowd Source Story Map
+  * [Crowd Source Story Map](arcgis-online/crowd-source-story-map.md)
 * REST API
 * Python
   * [ArcGIS Python API](python/arcgis-python-api.md)
