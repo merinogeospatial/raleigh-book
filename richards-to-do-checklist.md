@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180419 - Investigate web presence methods for org, update pop ups for forest ridge**
+> **For 20180419 - Investigate web presence methods for org \(make boilerplates?\), update pop ups for forest ridge**
 
 , Here's what I will need to catch up writing about:
 
