@@ -3,6 +3,10 @@
 > **For 20180419 - Investigate web presence methods for org \(make boilerplates?\), update pop ups for forest ridge**
 >
 > Pending response from Joel
+>
+> Create site?
+
+
 
 ### Here's what you need to catch up writing on
 
