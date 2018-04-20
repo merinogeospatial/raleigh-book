@@ -37,6 +37,7 @@
   * [Objectives and Criteria](ebpa-model/objectives-and-criteria.md)
   * [4/17/2018 Email](ebpa-model/4-17-2018-email.md)
   * [Questions for Bonnie](ebpa-model/questions-for-bonnie.md)
+  * The Model
 * [Park Trails Apps](park-trails-apps/README.md)
   * Forest Ridge Park
     * [Working](park-trails-apps/forest-ridge-park/working.md)
