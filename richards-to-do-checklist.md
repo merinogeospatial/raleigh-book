@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180423 - Cook census block data for meeting by population**
+> **For 20180423 - Cook census block data for meeting by population - percentages. Bring up stats for pop.**
 >
 > Pending response from Joel
 >
