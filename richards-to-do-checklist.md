@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180423 - Cook census block data for meeting by population - percentages. Bring up stats for pop.**
+> **For 20180423 - Cook census block data for meeting by population - percentages. Bring up stats for pop. Synthetic Populations. \*Greg's interest in AGOL**
 >
 > Pending response from Joel
 >
