@@ -24,7 +24,7 @@ EBPA Modeling, outcomes &gt;
 
 ## What we would like to accomplish/gain in project management
 
-* File structure?
+* **File structure?**
 * Best practices &gt;
   * for future team members
 * Organization that maximizes productivity
