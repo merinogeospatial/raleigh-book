@@ -28,10 +28,11 @@ EBPA Modeling, outcomes &gt;
 * Best practices &gt;
   * for future team members
 * Organization that maximizes productivity
-* Project management that maintains momentum
+* **Project management tips and tricks?**
 * Know where to find things
-* Systematic discussion organization\*
-
+* **Systematic discussion organization\***
+* **Sharepoint&gt; wat dat?**
+* 
 
 
 
