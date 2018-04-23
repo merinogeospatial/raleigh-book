@@ -20,7 +20,7 @@ EBPA Modeling, outcomes &gt;
 * Files on network drive and personal machines
 * Email, skype, weekly face-to face meetings
 
-> Meetings &gt; anything need to be improved upon?
+> ~~M~~e~~etings &gt; anything nee~~_d to be improved _~~_upon?_~~
 
 ## What we would like to accomplish/gain in project management
 

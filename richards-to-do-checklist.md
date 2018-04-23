@@ -1,15 +1,9 @@
 # Richard's To Do Checklist
 
-> **For 20180423 - Cook census block data for meeting by population - percentages. Bring up stats for pop. Synthetic Populations. Random points tool - constraining generation of points by geometry + number constrained by number of population**
->
->
->
-> ** \*Gary's interest in AGOL**
+> **For 20180424 -Digitize Pavement gravel etc for FRP**
 
-Raise scenario of "empty" block, but houses large company - is LOS accounted for/should it be accounted for? Assumptions will have to be made.
+~~Pending response from Joel~~
 
-> Pending response from Joel
->
 > Create site?
 
 
