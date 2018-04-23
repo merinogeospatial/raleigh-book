@@ -1,7 +1,9 @@
 # Richard's To Do Checklist
 
 > **For 20180423 - Cook census block data for meeting by population - percentages. Bring up stats for pop. Synthetic Populations. \*Gary's interest in AGOL**
->
+
+Raise scenario of "empty" block, but houses large company - is LOS accounted for/should it be accounted for? Assumptions will have to be made.
+
 > Pending response from Joel
 >
 > Create site?
