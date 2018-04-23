@@ -30,6 +30,9 @@ EBPA Modeling, outcomes &gt;
 * Organization that maximizes productivity
 * Project management that maintains momentum
 * Know where to find things
+* Systematic discussion organization\*
+
+
 
 
 
