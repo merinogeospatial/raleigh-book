@@ -1,10 +1,8 @@
 # Richard's To Do Checklist
 
-> **For 20180424 -Digitize Pavement gravel etc for FRP**
+> **For 20180425 -Recap, send Jeff app oops I forgot**
 
-~~Pending response from Joel~~
-
-> Create site?
+> Create site? Minimalist theme - parallax?
 
 
 
