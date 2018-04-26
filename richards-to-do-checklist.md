@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180425 -Recap, send Jeff app oops I forgot, configure sharepoint, start migrating to sharepoint, summaries, start decoding the code**
+> **For 20180426 - Finish migrating image assets to sharepoint, start wireframing devlab site**
 
 > Create site? Minimalist theme - parallax? &gt; Think about wireframing the site
 
