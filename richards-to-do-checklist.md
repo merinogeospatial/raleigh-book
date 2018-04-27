@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180426 - Finish migrating image assets to sharepoint, start wireframing devlab site**
+> **For 20180427 - Identify pain points in running EBPA model - through this, you should add recommended improvements;**
 
 > Create site? Minimalist theme - parallax? &gt; Think about wireframing the site
 
