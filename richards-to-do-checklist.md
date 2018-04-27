@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180427 - Identify pain points in running EBPA model - through this, you should add recommended improvements;**
+> **For 20180430 - Identify pain points in running EBPA model - start going through action list;**
 
 > Create site? Minimalist theme - parallax? &gt; Think about wireframing the site
 
