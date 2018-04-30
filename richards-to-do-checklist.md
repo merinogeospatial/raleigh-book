@@ -2,7 +2,21 @@
 
 > **For 20180430 - Identify pain points in running EBPA model - start going through action list;**
 
-> Create site? Minimalist theme - parallax? &gt; Think about wireframing the site
+> * David Hamilton - Strategic Planning Greenway Assets
+>   * Data to be separate from CW
+>   * Figure out asset views for ONLY needed &gt; asset inventory
+>   * Two sign inventories&gt;  mdb on prgis \(greenway signs\); on AGOL greenway asset inventory contains signs
+>     * GW asset inventory may have more than sign inventory
+>     * Figure out how to to consolidate
+>       * consolidate to GW asset inventory schema &gt; create view for signs only
+>       * 
+>   * Set up collector &gt; one map 2 layers \(Jeff/David\)
+>   * Field for source?
+>
+> GW SIGNS ; GW ASSET INVENTORY : PRCR ASSET INVENTORY
+
+* Public art  -~~ edit FROM story map app ~~update from collector
+  * make easy to update
 
 
 
