@@ -1,5 +1,15 @@
 # Data Consolidation for AGOL
 
+## Task: Develop a Collector app for David Hamilton to be able to collect and update various greenway assets.
+
+### &lt;Track datasets here&gt;
+
+* Created copy of sign personal geodatabase @ \GISDATA\Base Data\Sign\_Inventory\(20180501\).gdb
+* Created local copy of Greenway Asset Inventory
+  * Local copy cooked and exported to local set
+  * Cooked data to be merged with signs
+* \*Copy view?
+
 ## Creation + Consolidation of authoritative datasets in AGOL
 
 For the strategic planning initiative, they are interested in the following assets:
