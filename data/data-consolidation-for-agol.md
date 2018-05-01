@@ -15,7 +15,8 @@
   * Mention fields
   * Mention possibility of duplicate data for some signs
   * Give how-to
-    * Offer field 
+
+    * Offer field demo
 
 ## Creation + Consolidation of authoritative datasets in AGOL
 
