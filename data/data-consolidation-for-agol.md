@@ -8,7 +8,14 @@
 * Created local copy of Greenway Asset Inventory
   * Local copy cooked and exported to local set
   * Cooked data to be merged with signs
-* \*Copy view?
+* \*Copy view? &gt; Could not &gt; Asking IT to get ownership transferred
+* Spoke with Jeff, allow picture attachments for both but advise on discretion
+* \*\*\* Sharing to Raleigh Parks group, probably still need settings changed to share with this group?
+* Talk to David for demo
+  * Mention fields
+  * Mention possibility of duplicate data for some signs
+  * Give how-to
+    * Offer field 
 
 ## Creation + Consolidation of authoritative datasets in AGOL
 
