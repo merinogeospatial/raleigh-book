@@ -1,9 +1,10 @@
 # Richard's To Do Checklist
 
-> **For 20180430 - Identify pain points in running EBPA model - start going through action list;**
+> **For 20180501 - Pending IT response - change sharing and contact David Hamilton. Get code to reference in directory, check relative paths, test methods**
+>
+> David Hamilton - Strategic Planning Greenway Assets
 
-> * David Hamilton - Strategic Planning Greenway Assets
->   * Data to be separate from CW
+> * * Data to be separate from CW
 >   * Figure out asset views for ONLY needed &gt; asset inventory
 >   * Two sign inventories&gt;  mdb on prgis \(greenway signs\); on AGOL greenway asset inventory contains signs
 >     * GW asset inventory may have more than sign inventory
