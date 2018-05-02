@@ -1,4 +1,4 @@
-# Data Consolidation for AGOL
+# Asset Inventory Data Collection for AGOL
 
 ## Task: Develop a Collector app for David Hamilton to be able to collect and update various greenway assets.
 

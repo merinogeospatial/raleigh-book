@@ -10,7 +10,7 @@
 * Data
   * [Vector Map Tiling](data/vector-map-tiling.md)
   * [SDE Connections](data/sde-connections.md)
-  * [Data Consolidation for AGOL](data/data-consolidation-for-agol.md)
+  * [Asset Inventory Data Collection for AGOL](data/data-consolidation-for-agol.md)
 * Research
   * [Automating Creation of FacilityID as String](research/automating-creation-of-facilityid-as-string.md)
   * [Routing Engines](research/routing-engines.md)
