@@ -1,33 +1,9 @@
 # Richard's To Do Checklist
 
-> **For 20180501 - **
->
-> **Get all the data needed for dog parks: parks, dog refuse stations, other relevant layers.**
->
-> **Finish refactoring python code for EBPA, if complete, go ahead and consolidate network model**
+> **For 20180504 - **
 
-> **Pending IT response - **
->
-> **o	Add fences**
->
-> **o	Add counters**
->
-> **o	Add “Removed” option for sign condition**
->
-> **o	Allow Brandon Lee to access the collector map once he has an account**
->
-> **o	Allow access to all other assets \(pending IT\)**
->
-> **o	Remove “Signage” from all other assets view**
->
-> **o	Enable picture attachments for all assets**
->
-> **o	Configure the dashboard app so you can view edits by date**
->
-> **o	Add in greenways, parks, and trails to collector map for reference**
->
->
->
+> **Finish refactoring python code for EBPA, if complete, go ahead and consolidate network model**
+
 > David Hamilton - Strategic Planning Greenway Assets
 
 > * * Data to be separate from CW
