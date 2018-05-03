@@ -3,6 +3,10 @@
 > **For 20180504 - **
 
 > **Finish refactoring python code for EBPA, if complete, go ahead and consolidate network model**
+>
+> **Try to figure out future analysis tools. **
+>
+> **Create flow diagram of process, be as detailed as possible.**
 
 > David Hamilton - Strategic Planning Greenway Assets
 
