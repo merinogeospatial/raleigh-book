@@ -1,12 +1,14 @@
 # Richard's To Do Checklist
 
 > **For 20180507 - Let's quickly knock out the flowchart before proceeding with refactoring. **
+>
+> David Hamilton is in field now collecting - watch email.
 
 > **Finish refactoring python code for EBPA \(come back to LOS Current\), if complete, go ahead and consolidate network model**
 >
 > **Try to figure out future analysis tools. **
->
-> **Create flow diagram of process, be as detailed as possible.**
+
+
 
 > David Hamilton - Strategic Planning Greenway Assets
 
