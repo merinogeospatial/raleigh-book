@@ -1,8 +1,8 @@
 # Richard's To Do Checklist
 
-> **For 20180504 - **
+> **For 20180507 - Let's quickly knock out the flowchart before proceeding with refactoring. **
 
-> **Finish refactoring python code for EBPA, if complete, go ahead and consolidate network model**
+> **Finish refactoring python code for EBPA \(come back to LOS Current\), if complete, go ahead and consolidate network model**
 >
 > **Try to figure out future analysis tools. **
 >
