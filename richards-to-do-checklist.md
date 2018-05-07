@@ -1,8 +1,16 @@
 # Richard's To Do Checklist
 
-> **For 20180507 - Let's quickly knock out the flowchart before proceeding with refactoring. **
+> **For 20180508 - Greenway asset inventory:**
 >
-> David Hamilton is in field now collecting - watch email.
+> PRCR Asset inventory - remove light poles, symbolize as red X's
+>
+> PRCR Signs
+>
+> Greenway Asset Inventory - clean fields, make sure everything is on there
+>
+> Fences add domains for material and type, populate geometry
+
+> **Let's quickly knock out the flowchart before proceeding with refactoring. **
 
 > **Finish refactoring python code for EBPA \(come back to LOS Current\), if complete, go ahead and consolidate network model**
 >
