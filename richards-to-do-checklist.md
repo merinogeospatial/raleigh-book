@@ -1,6 +1,8 @@
 # Richard's To Do Checklist
 
-> **For 20180508 - Greenway asset inventory:**
+> **For 20180515 - Update sharepoint with docs; finish scripts for old model and network part; **
+>
+> ** Greenway asset inventory:**
 >
 > PRCR Asset inventory - remove light poles, symbolize as red X's
 >
