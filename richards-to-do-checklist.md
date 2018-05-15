@@ -1,41 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180515 - Update sharepoint with docs; finish scripts for old model and network part; **
->
-> ** Greenway asset inventory:**
->
-> PRCR Asset inventory - remove light poles, symbolize as red X's
->
-> PRCR Signs
->
-> Greenway Asset Inventory - clean fields, make sure everything is on there
->
-> Fences add domains for material and type, populate geometry
-
-> **Let's quickly knock out the flowchart before proceeding with refactoring. **
-
-> **Finish refactoring python code for EBPA \(come back to LOS Current\), if complete, go ahead and consolidate network model**
->
-> **Try to figure out future analysis tools. **
-
-
-
-> David Hamilton - Strategic Planning Greenway Assets
-
-> * * Data to be separate from CW
->   * Figure out asset views for ONLY needed &gt; asset inventory
->   * Two sign inventories&gt;  mdb on prgis \(greenway signs\); on AGOL greenway asset inventory contains signs
->     * GW asset inventory may have more than sign inventory
->     * Figure out how to to consolidate
->       * consolidate to GW asset inventory schema &gt; create view for signs only
->       * 
->   * Set up collector &gt; one map 2 layers \(Jeff/David\)
->   * Field for source?
->
-> GW SIGNS ; GW ASSET INVENTORY : PRCR ASSET INVENTORY
-
-* Public art  -~~ edit FROM story map app ~~update from collector
-  * make easy to update
+> **For 20180515 - **~~**Update sharepoint with docs;**~~** finish scripts for old model and network part; **
 
 
 
