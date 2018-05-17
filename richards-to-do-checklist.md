@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180518 -**
+> **For 20180518 - Continue writing decision doc, research server set up for cartodb, follow up with David Hamilton.**
 
 
 
