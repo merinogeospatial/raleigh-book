@@ -4,11 +4,11 @@
 
 **Date:3/26/2018**
 
-**Objective/Task: **If existing solution is not already in place, design and implement method for automatic creation of a unique facility ID as a string for tree inventory dataset. Field must be a string and is required for import into Cityworks.
+**Objective/Task:** If existing solution is not already in place, design and implement method for automatic creation of a unique facility ID as a string for tree inventory dataset. Field must be a string and is required for import into Cityworks.
 
 > #### _**\*\*\* Post meeting - Geoevent server is being explored as a solution for easily managing and deploying this automation \*\*\***_ {#post-meeting---geoevent-server-is-being-explored-as-a-solution-for-easily-managing-and-deploying-this-automation-}
 
-**Possible Solutions: **If an existing solution is not currently in use, the following may be considered. These can be divided into SQL and Python solutions:
+**Possible Solutions:** If an existing solution is not currently in use, the following may be considered. These can be divided into SQL and Python solutions:
 
 ### **SQL** {#sql}
 
@@ -32,7 +32,7 @@
 * * **Uses the REST API to access the feature service**
   * **The data accessed will be in json format**
   * **In order to calculate the FacilityID field, the field calculator URL \(REST service\) must be requested in the script as well**
-  * **Adds room for more error on crucial step with calculator URL - **~~**calculating exclusively with python will require entire json text to be read into memory?**~~
+  * **Adds room for more error on crucial step with calculator URL -** ~~**calculating exclusively with python will require entire json text to be read into memory?**~~
 * **Modifying at source as feature service is streamed \(See diagram on top\)**
 * * **Note any potential problems with modifying at source, running on server vs. on dedicated machine**
   * **Can be run as continuous script OR scheduled by OS, scheduled may be better for this option**

@@ -30,7 +30,7 @@ Personal notes - not official info/sharing method for EBPA, but here for viewing
       * Documentation
 
 * **"Deadline" for presentation?** deadline for steps? estimated timeline?
-* **Define what is and is not in our scope **- certain variables/scales out of scope?
+* **Define what is and is not in our scope** - certain variables/scales out of scope?
 * **Business case/need** - Provide methodology of modeling park access in the context of planning more quantitatively in order to reduce subjectivity in decision making.
 * **Desired outcome** - 
   * Expand accessibility to this model to other users through availability of technology, clear documentation on technology and process.

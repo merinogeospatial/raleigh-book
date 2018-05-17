@@ -4,7 +4,7 @@
 
 
 
-**Raleigh SDE \(city\_raleigh\)**
+**Raleigh SDE \(city\_raleigh\)**
 
 DB: Oracle
 
@@ -18,7 +18,7 @@ Password: city\_raleigh
 
 
 
-**Wake County SDE**
+**Wake County SDE**
 
 DB: Oracle
 

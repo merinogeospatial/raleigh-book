@@ -2,8 +2,8 @@
 
 **Experience-Based Access Model - MCSDSS**
 
-**Team Goal List  
-**
+**Team Goal List**  
+
 
 **Team Goal: Gain confidence in analysis/model results in order to be used in “official” capacity**
 

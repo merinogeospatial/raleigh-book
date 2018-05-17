@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180515 - **~~**Update sharepoint with docs;**~~** finish scripts for old model and network part; **
+> **For 20180518 -**
 
 
 
