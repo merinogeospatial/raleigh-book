@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **For 20180518 - Continue writing decision doc, research server set up for cartodb, follow up with David Hamilton.**
+> **For 20180517 -  Carto.js and airship webinar; write documentation on DECISON trees**
 
 
 
