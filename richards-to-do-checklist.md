@@ -1,8 +1,24 @@
 # Richard's To Do Checklist
 
-> **For 20180517 -  Carto.js and airship webinar; write documentation on DECISON trees**
-
-
+> **In order to create AGOL custom widgets and apps**
+>
+> * **Typescript**
+>   * Type annotation for parameters and classes
+> * **Classes**
+>   * Instances with type
+>     * extend
+>     * super
+> * node.js
+> * npm
+> * **Dojo** \(2\)
+>   * one letter variable functions
+>   * protected functions / private / public
+> * **Dijit \(Dojo's UI Library\)**
+>
+> ### AGOL Stack:
+>
+> * Back - AGOL Hosted Portal / REST API
+> * Front - Dojo toolkit
 
 ### Here's what you need to catch up writing on
 
