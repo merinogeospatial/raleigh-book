@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> **In order to create AGOL custom widgets and apps**
+> **In order to create AGOL custom widgets and apps \(the right way\)**
 >
 > * **Typescript**
 >   * Type annotation for parameters and classes
