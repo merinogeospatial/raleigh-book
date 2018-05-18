@@ -5,15 +5,19 @@
 > * **Typescript**
 >   * Type annotation for parameters and classes
 > * **Classes**
->   * Instances with type
+>   * Constructors
+>   * Instances with typescript
 >     * extend
 >     * super
-> * node.js
-> * npm
+> * **node.js**
+>   * virtual DOM
+> * **npm**
+>   * overhead packaging
 > * **Dojo** \(2\)
 >   * one letter variable functions
 >   * protected functions / private / public
 > * **Dijit \(Dojo's UI Library\)**
+>   * requires dojo core & dojo base
 >
 > ### AGOL Stack:
 >
