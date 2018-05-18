@@ -9,7 +9,7 @@
 >   * Instances with typescript
 >     * extend
 >     * super
-> * ES6 Arrow Functions
+> * **ES6 Arrow Functions**
 > * **node.js**
 >   * virtual DOM
 > * **npm**
