@@ -1,6 +1,6 @@
 # Richard's To Do Checklist
 
-> Tie park experience to access points, investigate creation of new routes
+> Tie park experience to access points\(uploaded on AGOL\), investigate creation of new routes, 
 >
 >
 >
