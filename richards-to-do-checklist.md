@@ -1,5 +1,9 @@
 # Richard's To Do Checklist
 
+> Tie park experience to access points, investigate creation of new routes
+>
+>
+>
 > **In order to create AGOL custom widgets and apps \(the right way\)**
 >
 > * **Typescript**
