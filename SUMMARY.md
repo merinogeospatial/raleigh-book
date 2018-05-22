@@ -20,7 +20,7 @@
   * [Creation of Parcels Containing Parks](arcgis-desktop/creation-of-parcels-containing-parks.md)
 * ArcGIS Online
   * [Web App Builder](arcgis-online/web-app-builder/README.md)
-    * [Custom Widgets](arcgis-online/web-app-builder/custom-widgets.md)
+    * [Custom Widgets \(Developer Edition\)](arcgis-online/web-app-builder/custom-widgets.md)
   * Operations Dashboard
   * App Templates
   * [Crowd Source Story Map](arcgis-online/crowd-source-story-map.md)

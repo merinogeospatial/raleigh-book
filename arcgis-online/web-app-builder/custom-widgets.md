@@ -1,4 +1,4 @@
-# Custom Widgets
+# Custom Widgets \(Developer Edition\)
 
 My repo of custom widgets: 
 
