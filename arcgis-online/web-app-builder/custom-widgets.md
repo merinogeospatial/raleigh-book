@@ -8,5 +8,7 @@ My repo of custom widgets:
 
  It will be helpful to brush up on js, html, css, and the dojo toolkit. Be sure to set names the same across the board \(in js, manifest, config etc.\). If you fail to do this, you will have an error when trying to add it in WAB. A good way to tell is if the icon image does not load in your app pool!
 
+Note: If you are running the server while making changes to file structure, you will need to restart the server for your newly created apps to show up.
+
 
 
