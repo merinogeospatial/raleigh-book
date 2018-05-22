@@ -19,7 +19,7 @@
   * [Creation of COR-owned parcels](arcgis-desktop/creation-of-cor-owned-parcels.md)
   * [Creation of Parcels Containing Parks](arcgis-desktop/creation-of-parcels-containing-parks.md)
 * ArcGIS Online
-  * Web App Builder
+  * [Web App Builder](arcgis-online/web-app-builder.md)
   * Operations Dashboard
   * App Templates
   * [Crowd Source Story Map](arcgis-online/crowd-source-story-map.md)
