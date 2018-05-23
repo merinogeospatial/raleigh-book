@@ -15,6 +15,7 @@
 >   * The script is not actually overwriting the fields that have already been calculated, or in other words the fail safe check is failing in the python script
 >     * This is possible - in order to verify we should run from scratch each time. At the very least check it once to your current results. _**`The original output has been saved in the EBPA_Block_model pro project in your documents directory. When running from scratch, make sure to double check the starting data (Census Blocks) as well. It is possible that the fields have already been populated?`**_
 >   * Incorrect data inputs were used when running the scripting tools. Double check geoprocessing history to see if incorrect  data sets were used. Also make sure when defining the workspace - if this has anything to do with the data outputs and how they are written out to the blocks.
+>     * FYI there may be a redundant line of code @ line 343. What does this mean and does this break anything if removed? if so, why?
 >
 >
 >
