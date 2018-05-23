@@ -2,6 +2,10 @@
 
 > Tie park experience to access points\(uploaded on AGOL\), investigate creation of new routes, 
 >
+> _**Look into creating tool that lists all amenities for a given park: at first glance it looks like we can through the layer on the map and cursor through with a conditional and will return the field name if the condition is met - doesn't even necessarily have to be a map, but the spatial component of comparing would be nice.**_
+>
+>
+>
 >
 >
 > **In order to create AGOL custom widgets and apps \(the right way\)**
