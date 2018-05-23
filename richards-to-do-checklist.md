@@ -5,7 +5,7 @@
 > Run current LOS tool at multiple distances:
 >
 > * Run tool at network and calc at 0.5mi, 1mi, and 2 mi.
-> * PROBLEM: calc seems same &gt; start from scratch on calcs each time
+> * PROBLEM: Results seem to be the same despite changing the network distance \(verified with feature comparison tool\). We should atleast see a small change in the PSCORE and PARK\_PP &gt; start from scratch on calcs each time
 >   * How are parks per person being counted right now??? why is it 1/pop sum \(INVESTIGATE\)
 >   * When a Block centroid has access to multiple access points for the same park, does the current model assume they are multiple parks?
 >     * Ask others and also investigate the code to check if this is the case
@@ -14,6 +14,7 @@
 >     * Likely not the case - keyword sweep yields nothing and it makes the most sense that distances are set at the network analysis level
 >   * The script is not actually overwriting the fields that have already been calculated, or in other words the fail safe check is failing in the python script
 >     * This is possible - in order to verify we should run from scratch each time. At the very least check it once to your current results. _**`The original output has been saved in the EBPA_Block_model pro project in your documents directory. When running from scratch, make sure to double check the starting data (Census Blocks) as well. It is possible that the fields have already been populated?`**_
+>   * It is possible that incorrect use of
 >
 >
 >
