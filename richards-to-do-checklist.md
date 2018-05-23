@@ -5,6 +5,7 @@
 > _**Look into creating tool that lists all amenities for a given park: at first glance it looks like we can through the layer on the map and cursor through with a conditional and will return the field name if the condition is met - doesn't even necessarily have to be a map, but the spatial component of comparing would be nice.**_
 >
 > 1. Consolidate from park locator into park polygons or just use points \(clean up the park locator data\)
+>    1. Would have to clean data up. Maybe have each park hold an array
 > 2. Turn dataset into geojson?
 > 3. Have two containers that hold info for park you select where you can compare two?
 > 4. On click, check condition for amenity fields, if pass show in container
