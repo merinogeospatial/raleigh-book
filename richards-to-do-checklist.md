@@ -4,7 +4,8 @@
 >
 > * Run tool at network and calc at 0.5mi, 1mi, and 2 mi.
 > * PROBLEM: calc seems same &gt; start from scratch on calcs each time
->   * How are parks per person being counted right now??? why is it 1/pop sum
+>   * How are parks per person being counted right now??? why is it 1/pop sum \(INVESTIGATE\)
+>   * When a Block centroid has access to multiple access points for the same park, does it get "multiple parks" with that?
 >
 >
 >
