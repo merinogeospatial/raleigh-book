@@ -2,7 +2,7 @@
 
 > ## You have a bookmarked task below, dweeb
 >
-> Run current LOS tool at multiple distances:
+> ### **Run current LOS tool at multiple distances:**
 >
 > * Run tool at network and calc at 0.5mi, 1mi, and 2 mi.
 > * PROBLEM: Results seem to be the same despite changing the network distance \(verified with feature comparison tool\). We should atleast see a small change in the PSCORE and PARK\_PP &gt; start from scratch on calcs each time
@@ -17,7 +17,7 @@
 >   * Incorrect data inputs were used when running the scripting tools. Double check geoprocessing history to see if incorrect  data sets were used. Also make sure when defining the workspace - if this has anything to do with the data outputs and how they are written out to the blocks.
 >     * FYI there may be a redundant line of code @ line 343. What does this mean and does this break anything if removed? if so, why?
 >
->
+> ### Create documentation for the new starter kit and package
 >
 > Tie park experience to access points\(uploaded on AGOL\), investigate creation of new routes, 
 >
