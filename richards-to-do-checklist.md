@@ -2,6 +2,10 @@
 
 > ## You have a bookmarked task below, dweeb
 >
+> ### Take population out of the equation.
+>
+> * This proves more difficult than anticipated due to how the script is set up. For some reason\(s\) the script will either fail to write anything for each row OR fails to pass the null checker condition. This will require further investigation.
+
 > ### **Run current LOS tool at multiple distances: done manually, now automate it.**
 >
 > * Run tool at network and calc at 0.5mi, 1mi, and 2 mi.
