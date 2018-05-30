@@ -46,7 +46,7 @@
 
 **Scheduling a python script:**
 
-{% embed data="{\"url\":\"https://blogs.esri.com/esri/arcgis/2013/07/30/scheduling-a-scrip/\r\",\"type\":\"link\",\"title\":\"Scheduling a Python script or model to run at a prescribed time\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.esri.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed data="{\"url\":\"https://blogs.esri.com/esri/arcgis/2013/07/30/scheduling-a-scrip/\\r\",\"type\":\"link\",\"title\":\"Scheduling a Python script or model to run at a prescribed time\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.esri.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
 https://communityhub.esriuk.com/technicalsupport/2016/8/31/scheduling-a-modelbuilder-model-using-task-scheduler
 
