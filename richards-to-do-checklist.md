@@ -4,10 +4,10 @@
 >
 > ### Take population out of the equation.
 >
-> * This proves more difficult than anticipated due to how the script is set up. For some reason\(s\) the script will either fail to write anything for each row OR fails to pass the null checker condition. This will require further investigation.
-> * _**`Try running it on current instead of baseline. Ask Ryan if there is a 2013 block dataset that hasn't been run - it looks like when running 2013 baseline before it never really changed anything?`**_
+> * ~~This proves more difficult than anticipated due to how the script is set up. For some reason\(s\) the script will either fail to write anything for each row OR fails to pass the null checker condition. This will require further investigation.~~
+> * ~~_**Try running it on current instead of baseline. Ask Ryan if there is a 2013 block dataset that hasn't been run - it looks like when running 2013 baseline before it never really changed anything?**_~~
 > * _**Looks like current might work after running baseline standard, but problem is that baseline is using population. It may just be that resetting null values does not work and we need use fresh block data for baseline 2013?**_
-> *
+> * **`You will have to remake the bins for the scores. Does this necessarily need to come from the baseline analysis?`** ``**`*First try creating a fresh project and setting the necessary fields to null, then use the modifed scritps to reproduce baseline and current scores without population factored in.`**
 
 > ### **Run current LOS tool at multiple distances: done manually, now automate it.**
 >
