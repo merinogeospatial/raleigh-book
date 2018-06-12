@@ -1,48 +1,48 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Welcome to team raleigh!
-* Introduction
+* [Welcome to team raleigh!](welcome-to-team-raleigh.md)
+* [Introduction](introduction/README.md)
   * [Purpose](introduction/purpose.md)
-  * Useful Links
+  * [Useful Links](introduction/useful-links.md)
 * [PRCR Github](prcr-github.md)
 * [Richard's To Do Checklist](richards-to-do-checklist.md)
-* Data
+* [Data](data/README.md)
   * [Vector Map Tiling](data/vector-map-tiling.md)
   * [SDE Connections](data/sde-connections.md)
   * [Asset Inventory Data Collection for AGOL](data/data-consolidation-for-agol.md)
-* Research
+* [Research](research/README.md)
   * [Automating Creation of FacilityID as String](research/automating-creation-of-facilityid-as-string.md)
   * [Routing Engines](research/routing-engines.md)
   * [Windows Task Scheduler](research/windows-task-scheduler.md)
-* ArcGIS Desktop
+* [ArcGIS Desktop](arcgis-desktop/README.md)
   * [Creation of COR-owned parcels](arcgis-desktop/creation-of-cor-owned-parcels.md)
   * [Creation of Parcels Containing Parks](arcgis-desktop/creation-of-parcels-containing-parks.md)
-* ArcGIS Online
+* [ArcGIS Online](arcgis-online/README.md)
   * [Web App Builder](arcgis-online/web-app-builder/README.md)
     * [Custom Widgets \(Developer Edition\)](arcgis-online/web-app-builder/custom-widgets.md)
-  * Operations Dashboard
-  * App Templates
+  * [Operations Dashboard](arcgis-online/operations-dashboard.md)
+  * [App Templates](arcgis-online/app-templates.md)
   * [Crowd Source Story Map](arcgis-online/crowd-source-story-map.md)
-* REST API
-* Python
+* [REST API](rest-api.md)
+* [Python](python/README.md)
   * [ArcGIS Python API](python/arcgis-python-api.md)
   * [Automating ArcGIS Online Backups](python/automating-arcgis-online-backups.md)
   * [Mapbox Python API](python/mapbox-python-api.md)
-* Javascript
-  * ArcGIS Javascript API
-  * Web App Builder \(Developer Edition\)
-  * Dojo Toolkit
-* EBPA Model
+* [Javascript](javascript/README.md)
+  * [ArcGIS Javascript API](javascript/arcgis-javascript-api.md)
+  * [Web App Builder \(Developer Edition\)](javascript/web-app-builder-developer-edition.md)
+  * [Dojo Toolkit](javascript/dojo-toolkit.md)
+* [EBPA Model](ebpa-model/README.md)
   * [Notes](ebpa-model/notes.md)
   * [Objectives and Criteria](ebpa-model/objectives-and-criteria.md)
   * [4/17/2018 Email](ebpa-model/4-17-2018-email.md)
   * [Questions for Bonnie](ebpa-model/questions-for-bonnie.md)
-  * The Model
+  * [The Model](ebpa-model/the-model.md)
 * [Park Trails Apps](park-trails-apps/README.md)
-  * Forest Ridge Park
+  * [Forest Ridge Park](park-trails-apps/forest-ridge-park/README.md)
     * [Working](park-trails-apps/forest-ridge-park/working.md)
   * [Trails Data](park-trails-apps/trails-data.md)
-* Collaboration Efforts
-  * Co/Lab
+* [Collaboration Efforts](collaboration-efforts/README.md)
+  * [Co/Lab](collaboration-efforts/co-lab.md)
 

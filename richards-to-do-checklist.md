@@ -1,6 +1,16 @@
 # Richard's To Do Checklist
 
 > ## You have a bookmarked task below, dweeb
+>
+> ### Create buffer and network service area datasets
+>
+> * Euclidean buffers at 0.5, 1, 2, & 5 miles
+> * 10 minute drive time service areas
+> * network service areas for 0.5, 1, 2, & 5 miles
+>
+> > Euclidean buffers run on park polygons - be sure to include undeveloped parks.
+> >
+> > Network service areas based on access points - be sure to dissolve by park\_ID
 
 > ### Create documentation for the new starter kit and package \(Hold off on as we will need to build in automation for multiple buffer distances\)
 
