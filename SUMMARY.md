@@ -39,6 +39,7 @@
   * [4/17/2018 Email](ebpa-model/4-17-2018-email.md)
   * [Questions for Bonnie](ebpa-model/questions-for-bonnie.md)
   * [The Model](ebpa-model/the-model.md)
+  * [Factoring in experience counts](ebpa-model/factoring-in-experience-counts.md)
 * [Park Trails Apps](park-trails-apps/README.md)
   * [Forest Ridge Park](park-trails-apps/forest-ridge-park/README.md)
     * [Working](park-trails-apps/forest-ridge-park/working.md)
